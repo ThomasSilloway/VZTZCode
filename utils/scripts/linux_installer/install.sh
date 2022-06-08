@@ -254,7 +254,7 @@ mkdir $eqemu_server_directory/server/maps
 
 #::: Back to server directory
 cd $eqemu_server_directory/server
-wget https://raw.githubusercontent.com/ThomasSilloway/Server/fix/install/eqemu_server.pl
+wget https://raw.githubusercontent.com/ThomasSilloway/VZTZServer/fix/install/eqemu_server.pl
 
 #::: Map lowercase to uppercase to avoid issues
 ln -s maps Maps
